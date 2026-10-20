@@ -1,0 +1,11 @@
+{
+  "org": "lepture",
+  "repo": "otpauth",
+  "versions": [
+    {
+      "commit": "72374ac8157ce3f5cf89e90c359fa92652984d4c",
+      "tag": "v2.2.2",
+      "parsed_at": "2026-10-20T20:45:42.114593+00:00"
+    }
+  ]
+}
